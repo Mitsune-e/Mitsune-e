@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving old projects from my College Projects.
 - 🌱 I’m currently learning coding patterns and better coding pratices.
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: Github Inbox, Email
+- 📫 How to reach me: by Email
 - 😄 Pronouns: Any
 
 <div>

@@ -20,4 +20,5 @@
 <img alt="Mitsune-Sql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 <img alt="Mitsune-Azure" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 <img alt="Mitsune-Firebase" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+<img alt="Mitsune-Firebase" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 </div>

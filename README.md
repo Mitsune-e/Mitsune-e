@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: by Email
 - 😄 Pronouns: Any
-
+<!--- 
 <div>
   <a href = "https://beacons.ai/Mitsune-e">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitsune-e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsune-e&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
+--->
 <div style="display: inline_block"><br>
 <img alt="Mitsune-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img alt="Mitsune-JS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>

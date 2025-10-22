@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on improving old projects from my College Projects.
-- 🌱 I’m currently learning coding patterns and better coding pratices.
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently looking for a new place tow ork and improving old projects from my College Projects.
 - 📫 How to reach me: by Email
-- 😄 Pronouns: Any
 <!--- 
 <div>
   <a href = "https://beacons.ai/Mitsune-e">

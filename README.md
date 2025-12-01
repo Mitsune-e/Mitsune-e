@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently looking for a new place tow ork and improving old projects from my College Projects.
+- 🔭 I’m currently looking for a new place to work.
 - 📫 How to reach me: by Email
 <!--- 
 <div>

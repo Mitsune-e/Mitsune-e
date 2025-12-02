@@ -1,12 +1,12 @@
-# 👨‍💻 Giovani Veloso
+# 👩‍💻 Giovana Veloso
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Giovani Veloso, tenho 25 anos e sou de Brasilia, Distrito Federal. Sou formado em Ciencias da Computação, e atualmente estou procurando uma nova oportunidade de emprego ou projetos para contribuir. Meu objetivo é achar um local estavel e confortavel de trabalhar aonde posso botar minhas habilidades e estudos em pratica. Gosto de conversar e trocar ideias então fique a vontade de me mandar um email ou mensagem no Linkedin sem compromisso. 
+Me chamo Giovana Veloso, tenho 25 anos e sou de Brasilia, Distrito Federal. Sou formada em Ciencias da Computação, e atualmente estou procurando uma nova oportunidade de emprego ou projetos para contribuir. Meu objetivo é achar um local estavel e confortavel de trabalhar aonde posso botar minhas habilidades e estudos em pratica. Gosto de conversar e trocar ideias então fique a vontade de me mandar um email ou mensagem no Linkedin sem compromisso. 
 Links no badges abaixo.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/giovaniveloso/?locale=pt_BR" rel="noopener noreferrer"  target="_blank">
+    <a href="https://www.linkedin.com/in/giovanaveloso/?locale=pt_BR" rel="noopener noreferrer"  target="_blank">
         <img 
             alt="linkedin link" 
             title="Veja meu linkedin"
